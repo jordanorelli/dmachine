@@ -18,9 +18,9 @@ contains the repository, and execute the command `chuck run`.  This will launch
 ChucK with the `run.ck` file, which will import the other source code files in
 the project.
 
-The file `dmachine.ck` contains the annotated source code of the drum machine
+**The file `dmachine.ck` contains the annotated source code of the drum machine
 logic.  This is the main point of interest for developers looking to learn a
-bit about ChucK.
+bit about ChucK.**
 
 The directory `lp` contains a set of chuck files that implement a handler for
 the novation launchpad.  This greatly simplifies the project, since interacting
